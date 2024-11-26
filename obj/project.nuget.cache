@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dLulqfFnQln9Eowonc3x4SpV4ovbZlVD/Bt+I8+UsfXxcSCRJz45h/TaeL0p/YovWDnoFEOyWik9AF2+fQOF9Q==",
+  "dgSpecHash": "mDv6Jnl7dEFC7QefxwNMMJ1EgXORAALJra1OG6ZH6cjdnAF5wNqvphrAJVUzlj6cxb6MjvIpRckrIvl55ss5sg==",
   "success": true,
   "projectFilePath": "/Users/benmerlotti/personal-workspace/WebScraperDemo/WebScraperDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/benmerlotti/.nuget/packages/htmlagilitypack/1.11.71/htmlagilitypack.1.11.71.nupkg.sha512"
+  ],
   "logs": []
 }
